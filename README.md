@@ -1,9 +1,14 @@
 # GetCryptoBalance - приложение для получения баланса криптовалют BTC,DOGE,LTC,DASH,ETH
+
 <img src="/media/app.png?raw=true"/>
+
 # Быстрый старт
+
 ```
 git clone https://github.com/muddinit/GetCryptoBalance
 ```
+
+Запустите страницу index.html с помощью любого современного браузера. 
 
 # Использование
 
